@@ -1,0 +1,16 @@
+{
+    "num_gpus": 0,
+    "batch_size": 32,
+    "num_epochs": 100,
+    "learning_rate": 0.001,
+    "adam_b1": 0.9,
+    "adam_b2": 0.999,
+
+    "model": "unet",
+    "downsample_rates": [2, 2, 2, 2],
+
+    "image_size": 64,
+    "num_channels": 3,
+
+    "num_workers": 4
+}
