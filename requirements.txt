@@ -1,3 +1,4 @@
 datasets
+omegaconf
 pytorch_lightning
 torch
